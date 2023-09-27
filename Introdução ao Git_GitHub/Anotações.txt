@@ -1,1 +1,2 @@
 GitBash é um terminal extendido para otimizar o uso do Git.
+GitHub é uma plataforma de hospedagem para otimizar o uso do Git.
